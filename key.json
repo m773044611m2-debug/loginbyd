@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "DPMods-FD05GG": {
+      "hwid": "RESET",
+      "expireDate": "2027-05-27",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "123456789"
+    }
+  }
 }
