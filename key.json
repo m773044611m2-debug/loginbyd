@@ -21,7 +21,7 @@
   "BannedHWIDs": {},
   "Keys": {
     "0009999": {
-      "hwid": "RESET",
+      "hwid": "123456789",
       "expireDate": "2026-05-28",
       "isBanned": false,
       "banReason": "",
