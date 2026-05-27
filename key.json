@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "0009999": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-28",
+      "isBanned": true,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
