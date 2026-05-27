@@ -23,7 +23,7 @@
     "0009999": {
       "hwid": "RESET",
       "expireDate": "2026-05-28",
-      "isBanned": true,
+      "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
     }
